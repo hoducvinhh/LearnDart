@@ -6,5 +6,5 @@ void main() {
   print(age);
 
   // khai bao hang so
-  const color = 'red';
+  //const color = 'red';
 }
